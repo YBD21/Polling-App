@@ -1,0 +1,13 @@
+# start docker compose : 
+   docker-compose -f docker-compose.yml up -d 
+
+ # start server
+<<<<<<< HEAD
+   npm run dev  
+=======
+   npm run dev  
+
+
+   # Time Line
+   
+>>>>>>> 97a02df (new changes)
