@@ -1,4 +1,4 @@
-# Voting App 🗳️
+# Polling App 🗳️
 
 A real-time collaborative voting application that allows users to create polls, nominate options, and vote on them. ✨
 
@@ -104,3 +104,13 @@ npm start
   - API routes and Socket.IO handlers
 
 - `shared/`: Shared types and utilities 🔄
+
+## 📱 App Preview
+
+### Home
+
+<img src="./assets/home-page.png" width="300" alt="Home"/>
+
+### Join Poll
+
+<img src="./assets/join-poll.png" width="300" alt="Join Poll"/>
