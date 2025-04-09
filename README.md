@@ -1,4 +1,4 @@
-# Polling App 🗳️
+# Polling App 📊
 
 A real-time collaborative voting application that allows users to create polls, nominate options, and vote on them. ✨
 
